@@ -14,7 +14,7 @@
 <!--my introduction start-->
 
 <div>
-    Dreaming up ideas and making them come true is where my passion lies. See my project list <a href="https://github.com/Charmve#%EF%B8%8F-open-source-projects----">here</a>. <code>自动驾驶</code>  <code>量化交易</code>  <code>计算机视觉</code>
+    时计伴着安谧的岁月流转，鱼儿伴着皎澈的源水游旋。若是说万象终有枯竭之日，我的思念又为何澄净如初？
 <table><tbody>
 <tr><th>Title</th><th>Description</th><th>Stars</th><th>Progressing</th></tr>
 <tr>
