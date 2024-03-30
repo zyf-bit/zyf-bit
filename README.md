@@ -22,7 +22,7 @@
     <td><sub>一个车道线检测项目，发表于CVPR2023</sub></td>
 </tr>
 <tr>
-    <td align="center"><a href="https://github.com/zyf-bit/mixformer" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/AR-DAO/main/ar-cutpaste/app/assets/icon.png" alt="AR-DAO" width="38" style="vertical-align:bottom;" /><br> bev_lane_det </a></td>
+    <td align="center"><a href="https://github.com/zyf-bit/mixformer" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/AR-DAO/main/ar-cutpaste/app/assets/icon.png" alt="AR-DAO" width="38" style="vertical-align:bottom;" /><br> mixformer </a></td>
     <td><sub>机场鸟类和无人机目标跟踪项目，发表于CVPR2022</sub></td>
 </tr>
 </tbody>
