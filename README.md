@@ -20,7 +20,7 @@
 <table><tbody>
 <tr><th>Title</th><th>Description</th><th>Stars</th><th>Progressing</th></tr>
 <tr>
-    <td align="center"><a href="https://github.com/commaai/openpilot" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/UFund/main/img/UFund.png" align="center" alt="UFund" width="38" style="vertical-align:bottom;" /> <br> openpilot </a></td>
+    <td align="center"><a href="https://github.com/zyf-bit/openpilot" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/UFund/main/img/UFund.png" align="center" alt="UFund" width="38" style="vertical-align:bottom;" /> <br> openpilot </a></td>
     <td><sub>L2级开源驾驶员辅助系统</sub></td>
 </tr>
 <tr>
@@ -28,27 +28,14 @@
     <td><sub>openpilot的简化版本，仅使用supercombo模型输出轨迹信息</sub>></td>
 </tr>
 <tr>
-    <td align="center"><a href="https://charmve.github.io/L0CV-web" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/maiwei.png" alt="L0CV" width="38" style="vertical-align:bottom;" /><br> L0CV </a></td>
-    <td><sub>一个代码可在线交互运行的计算机视觉闭环学习平台</sub><br> <a href="https://charmve.github.io/L0CV-web" target="_blank">Project Home</a> | <a href="https://github.com/Charmve/computer-vision-in-action" target="_blank">GitHub</a></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/computer-vision-in-action?style=flat-square&labelColor=black" /></td>
-    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-82%25-green&logo=github" /></td>
+    <td align="center"><a href="https://github.com/zyf-bit/PSMNet" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/maiwei.png" alt="L0CV" width="38" style="vertical-align:bottom;" /><br> PSMNet </a></td>
+    <td><sub>一个双目深度估计的项目，在KITTI数据集上训练和评估，可以产出视差图，深度图（灰度和RGB）</sub></td>
 </tr>
 <tr>
-    <td align="center"><a href="https://github.com/Charmve/AR-DAO" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/AR-DAO/main/ar-cutpaste/app/assets/icon.png" alt="AR-DAO" width="38" style="vertical-align:bottom;" /><br> AR-DAO </a></td>
-    <td><sub>一个让用户通过增强现实（AR）铸造NFT并参与不同游戏等社交活动的去中心化自治组织(DAO)</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AR-DAO?style=flat-square&labelColor=black" />
+    <td align="center"><a href="https://github.com/zyf-bit/bev_lane_det" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/AR-DAO/main/ar-cutpaste/app/assets/icon.png" alt="AR-DAO" width="38" style="vertical-align:bottom;" /><br> AR-DAO </a></td>
+    <td><sub>一个车道线检测项目，发表于CVPR2023</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AR-DAO?style=flat-square&labelColor=black" />
     </td>
     <td><img alt="Progressing" src="https://img.shields.io/badge/progress-70%25-green&logo=github" /></td>
-</tr>
-<tr>
-    <td align="center"><a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank"><img src="https://github.com/Charmve/Charmve/assets/29084184/3fea69a0-5b51-48cc-af67-7f209fac4912" alt="BEV-Occ" width="38" style="vertical-align:bottom;" /><br> SurfaceDD </a></td>
-    <td><sub>📈 目前最大的工业缺陷检测数据库及论文集 </sub><br><a href="https://github.com/Charmve/Surface-Defect-Detection" target="_blank">GitHub</a> | <a href="https://opencollective.com/surfacedd" target="_blank">Opencollective</a></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/Surface-Defect-Detection?style=flat-square&labelColor=black" /></td>
-    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-92%25-green&logo=github" /></td>
-</tr>
-<tr>
-    <td align="center"><a href="https://github.com/DeepVTuber" target="_blank"><img src="https://avatars.githubusercontent.com/u/76906704?s=200&v=4" alt="VTuber" width="38" style="vertical-align:bottom;" /> <br> Vtuber </a></td><td>OpenVTuber - 虚拟アイドル共享计划<br><a href="https://github.com/DeepVTuber/OpenVTuber" target="_blank"> OpenVTuber </a>| <a href="https://github.com/DeepVTuber/DeepVTB" target="_blank">DeepVTB</a>| <a href="https://github.com/DeepVTuber/DanceNet3D" target="_blank">DanceNet3D</a></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/DeepVTuber/DeepVTB?style=flat-square&labelColor=black" /> | <img alt="Stars" src="https://img.shields.io/github/stars/DeepVTuber/DanceNet3D?style=flat-square&labelColor=black" /></td>
-    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-72%25-green&logo=github" /></td>
 </tr>
 <tr>
     <td align="center"><a href="https://github.com/Charmve/TimeWarp" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/TimeWarp/main/images/ui/logo_V.png" alt="TimeWarp" width="38" style="vertical-align:bottom;" /><br> TimeWarp </a></td>
