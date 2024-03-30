@@ -25,8 +25,8 @@
     <td><img alt="Progressing" src="https://img.shields.io/badge/progress-86%25-green&logo=github" /></td>
 </tr>
 <tr>
-    <td align="center"><a href="https://charmve.github.io/OccNet-Course" target="_blank"><img src="https://media.githubusercontent.com/media/Charmve/OccNet-Course/main/src/imgs/20231026-135500.jpg" alt="BEV-Occ" height="38" style="vertical-align:bottom;" /><br> BEV-Occ </a></td>
-    <td><sub>国内首个占据栅格网络全栈课程《从BEV到Occupancy Network：算法原理与工程实践》</sub><br><a href="https://github.com/Charmve/OccNet-Course" target="_blank">GitHub</a> | <a href="http://111.229.117.200:7001" target="_blank">Course home</a> | <a href="https://charmve.github.io/OccNet-Course" target="_blank">Slides</a></td>
+    <td align="center"><a href="https://github.com/zyf-bit/Openpilot-Deepdive" target="_blank"><img src="https://media.githubusercontent.com/media/Charmve/OccNet-Course/main/src/imgs/20231026-135500.jpg" alt="BEV-Occ" height="38" style="vertical-align:bottom;" /><br> openpilot-deepdive </a></td>
+    <td><sub>openpilot的简化版本，仅使用supercombo模型输出轨迹信息</sub><br><a href="https://github.com/zyf-bit/Openpilot-Deepdive" target="_blank">GitHub</a> | <a href="http://111.229.117.200:7001" target="_blank">Course home</a> | <a href="https://charmve.github.io/OccNet-Course" target="_blank">Slides</a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/OccNet-Course?style=flat-square&labelColor=black" /></td>
     <td><img alt="Progressing" src="https://img.shields.io/badge/progress-90%25-green&logo=github" /></td>
 </tr>
