@@ -15,8 +15,6 @@
 
 <div>
     Dreaming up ideas and making them come true is where my passion lies. See my project list <a href="https://github.com/Charmve#%EF%B8%8F-open-source-projects----">here</a>. <code>自动驾驶</code>  <code>量化交易</code>  <code>计算机视觉</code>
-    <b>A few highlights:</b>
-<br><br>
 <table><tbody>
 <tr><th>Title</th><th>Description</th><th>Stars</th><th>Progressing</th></tr>
 <tr>
@@ -36,12 +34,6 @@
     <td><sub>一个车道线检测项目，发表于CVPR2023</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AR-DAO?style=flat-square&labelColor=black" />
     </td>
     <td><img alt="Progressing" src="https://img.shields.io/badge/progress-70%25-green&logo=github" /></td>
-</tr>
-<tr>
-    <td align="center"><a href="https://github.com/Charmve/TimeWarp" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/TimeWarp/main/images/ui/logo_V.png" alt="TimeWarp" width="38" style="vertical-align:bottom;" /><br> TimeWarp </a></td>
-    <td><sub>Replacing Real-Time the High-Resolution Meeting Background Freely</sub> </td>
-    <td><img src="https://img.shields.io/github/stars/Charmve/TimeWarp?style=flat-square&labelColor=black" /></td>
-    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-24%25-green&logo=github" /></td>
 </tr>
 </tbody>
 </table>
