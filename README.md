@@ -40,26 +40,10 @@
 
 <br>
 
----
-
-<!-- sponsor 1---
-<div align="center">
-    <kbd align="center" valign="center">
-<h2> 🐣 <samp>Sponsor Program</samp></h2>
-For sponsors reaching certain tiers to have early access to my WIP works earlier. <a href="https://github.com/Charmve/sponsor-pro">More details</a> 
-    </kbd>
-</div>
-</div>
-<br>
---->
 
 <!-- sponsor 2--->
 
 <a href="https://charmve.github.io/L0CV-web/door/#Ui%60ojr!gns!XNTS!rqnornsrihq" target="_blank"><img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play a Game with Me" width="180px"></a>
 
-
-<table><tr><td>
-☎️ <a href="https://charmve.github.io/img/contact-card.png">Contact me</a>
-</td></tr></table>
 
 </div>
