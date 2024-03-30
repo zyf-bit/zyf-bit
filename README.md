@@ -7,7 +7,7 @@
 <table><tbody>
 <tr><th>Title</th><th>Description</th></tr>
 <tr>
-    <td height="20" align="center"><a href="https://github.com/zyf-bit/openpilot" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/openpilot.png" align="center" alt="UFund"  style="vertical-align:bottom;" /> <br> openpilot </a></td>
+    <td height="20" align="center"><a href="https://github.com/zyf-bit/openpilot" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/openpilot.png" align="center" alt="UFund" height="30" style="vertical-align:bottom;" /> <br> openpilot </a></td>
     <td><sub>L2级开源驾驶员辅助系统</sub></td>
 </tr>
 <tr>
