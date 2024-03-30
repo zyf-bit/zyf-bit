@@ -1,16 +1,3 @@
-<div>
-        <kbd align="center" valign="center">
-            <a href="https://github.com/Charmve/computer-vision-in-action">
-                <img align="right" src="https://komarev.com/ghpvc/?username=Charmve&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
-            </a>
-            <u><i>These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">GitHub actions</a>.</i></u> 
-        </kbd>
-</div>
-
-<br>
-
-
-
 <!--my introduction start-->
 
 <div>
