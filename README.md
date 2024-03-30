@@ -23,7 +23,7 @@
     <td><sub>一个车道线检测项目，发表于CVPR2023</sub></td>
 </tr>
 <tr>
-    <td height="20" align="center"><a href="https://github.com/zyf-bit/mixformer" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/mixformer.png" alt="AR-DAO"  style="vertical-align:bottom;" /><br> mixformer </a></td>
+    <td height="20" align="center"><a href="https://github.com/zyf-bit/mixformer" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/mixformer.png" alt="AR-DAO" height="60" style="vertical-align:bottom;" /><br> mixformer </a></td>
     <td><sub>机场鸟类和无人机目标跟踪项目，发表于CVPR2022</sub></td>
 </tr>
 </tbody>
