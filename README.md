@@ -1,4 +1,5 @@
 <!--my introduction start-->
+<img src="https://img.shields.io/badge/Genshin%20impact-120059516-blue">
 
 <div>
     时计伴着安谧的岁月流转，鱼儿伴着皎澈的源水游旋。若是说万象终有枯竭之日，我的思念又为何澄净如初？
