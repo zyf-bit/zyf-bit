@@ -28,7 +28,7 @@
 </tbody>
 </table>
 
-<br>
+![zyf-bit's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyf-bit&show_icons=true)
 
 
 <!-- sponsor 2--->
