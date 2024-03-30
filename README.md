@@ -21,14 +21,11 @@
 <tr><th>Title</th><th>Description</th><th>Stars</th><th>Progressing</th></tr>
 <tr>
     <td align="center"><a href="https://github.com/commaai/openpilot" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/UFund/main/img/UFund.png" align="center" alt="UFund" width="38" style="vertical-align:bottom;" /> <br> openpilot </a></td>
-    <td><sub>L2级开源驾驶员辅助系统</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/UFund-Me/Qbot?style=flat-square&labelColor=black" /></td>
-    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-86%25-green&logo=github" /></td>
+    <td><sub>L2级开源驾驶员辅助系统</sub></td>
 </tr>
 <tr>
     <td align="center"><a href="https://github.com/zyf-bit/Openpilot-Deepdive" target="_blank"><img src="https://media.githubusercontent.com/media/Charmve/OccNet-Course/main/src/imgs/20231026-135500.jpg" alt="BEV-Occ" height="38" style="vertical-align:bottom;" /><br> openpilot-deepdive </a></td>
-    <td><sub>openpilot的简化版本，仅使用supercombo模型输出轨迹信息</sub><br><a href="https://github.com/zyf-bit/Openpilot-Deepdive" target="_blank">GitHub</a> | <a href="http://111.229.117.200:7001" target="_blank">Course home</a> | <a href="https://charmve.github.io/OccNet-Course" target="_blank">Slides</a></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/OccNet-Course?style=flat-square&labelColor=black" /></td>
-    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-90%25-green&logo=github" /></td>
+    <td><sub>openpilot的简化版本，仅使用supercombo模型输出轨迹信息</sub>></td>
 </tr>
 <tr>
     <td align="center"><a href="https://charmve.github.io/L0CV-web" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/computer-vision-in-action/main/res/ui/maiwei.png" alt="L0CV" width="38" style="vertical-align:bottom;" /><br> L0CV </a></td>
