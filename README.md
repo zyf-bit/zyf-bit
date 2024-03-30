@@ -18,7 +18,7 @@
     <td><sub>一个双目深度估计的项目，在KITTI数据集上训练和评估，可以产出视差图，深度图（灰度和RGB）</sub></td>
 </tr>
 <tr>
-    <td align="center"><a href="https://github.com/zyf-bit/bev_lane_det" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/AR-DAO/main/ar-cutpaste/app/assets/icon.png" alt="AR-DAO" width="60" style="vertical-align:bottom;" /><br> bev_lane_det </a></td>
+    <td align="center"><a href="https://github.com/zyf-bit/bev_lane_det" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/bev_lane.png" alt="AR-DAO" width="60" style="vertical-align:bottom;" /><br> bev_lane_det </a></td>
     <td><sub>一个车道线检测项目，发表于CVPR2023</sub></td>
 </tr>
 <tr>
