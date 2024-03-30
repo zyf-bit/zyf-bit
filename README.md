@@ -11,15 +11,15 @@
     <td><sub>L2级开源驾驶员辅助系统</sub></td>
 </tr>
 <tr>
-    <td  height="20" align="center"><a href="https://github.com/zyf-bit/Openpilot-Deepdive" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/openpilot_deepdive.jpg" alt="BEV-Occ"  style="vertical-align:bottom;" /><br> openpilot-deepdive </a></td>
+    <td  align="center"><a href="https://github.com/zyf-bit/Openpilot-Deepdive" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/openpilot_deepdive.jpg" alt="BEV-Occ" height="60" style="vertical-align:bottom;" /><br> openpilot-deepdive </a></td>
     <td><sub>openpilot的简化版本，仅使用supercombo模型输出轨迹信息</sub></td>
 </tr>
 <tr>
-    <td height="30" align="center"><a href="https://github.com/zyf-bit/PSMNet" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/%E6%B7%B1%E5%BA%A6%E4%BC%B0%E8%AE%A1.png" alt="L0CV"  style="vertical-align:bottom;" /><br> PSMNet </a></td>
+    <td  align="center"><a href="https://github.com/zyf-bit/PSMNet" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/%E6%B7%B1%E5%BA%A6%E4%BC%B0%E8%AE%A1.png" alt="L0CV" height="60" style="vertical-align:bottom;" /><br> PSMNet </a></td>
     <td><sub>一个双目深度估计的项目，在KITTI数据集上训练和评估，可以产出视差图，深度图（灰度和RGB）</sub></td>
 </tr>
 <tr>
-    <td height="20" align="center"><a href="https://github.com/zyf-bit/bev_lane_det" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/bev_lane.png" alt="AR-DAO"  style="vertical-align:bottom;" /><br> bev_lane_det </a></td>
+    <td align="center"><a href="https://github.com/zyf-bit/bev_lane_det" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/bev_lane.png" alt="AR-DAO" height="60" style="vertical-align:bottom;" /><br> bev_lane_det </a></td>
     <td><sub>一个车道线检测项目，发表于CVPR2023</sub></td>
 </tr>
 <tr>
