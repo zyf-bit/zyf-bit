@@ -3,7 +3,7 @@
 <div>
     时计伴着安谧的岁月流转，鱼儿伴着皎澈的源水游旋。若是说万象终有枯竭之日，我的思念又为何澄净如初？
 <table><tbody>
-<tr><th>Title</th><th>Description</th><th>Stars</th><th>Progressing</th></tr>
+<tr><th>Title</th><th>Description</th></tr>
 <tr>
     <td align="center"><a href="https://github.com/zyf-bit/openpilot" target="_blank"><img src="https://raw.githubusercontent.com/UFund-Me/UFund/main/img/UFund.png" align="center" alt="UFund" width="38" style="vertical-align:bottom;" /> <br> openpilot </a></td>
     <td><sub>L2级开源驾驶员辅助系统</sub></td>
