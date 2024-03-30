@@ -18,9 +18,7 @@
 </tr>
 <tr>
     <td align="center"><a href="https://github.com/zyf-bit/bev_lane_det" target="_blank"><img src="https://raw.githubusercontent.com/Charmve/AR-DAO/main/ar-cutpaste/app/assets/icon.png" alt="AR-DAO" width="38" style="vertical-align:bottom;" /><br> bev_lane_det </a></td>
-    <td><sub>一个车道线检测项目，发表于CVPR2023</sub></td><td><img alt="Stars" src="https://img.shields.io/github/stars/Charmve/AR-DAO?style=flat-square&labelColor=black" />
-    </td>
-    <td><img alt="Progressing" src="https://img.shields.io/badge/progress-70%25-green&logo=github" /></td>
+    <td><sub>一个车道线检测项目，发表于CVPR2023</sub></td>
 </tr>
 </tbody>
 </table>
