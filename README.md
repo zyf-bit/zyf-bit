@@ -8,6 +8,10 @@
 <table><tbody>
 <tr><th>Title</th><th>Description</th></tr>
 <tr>
+    <td  align="center"><a href="https://github.com/open-mmlab/OpenPCDet" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/openpilot.png" align="center" alt="UFund" height="60" style="vertical-align:bottom;" /> <br> OpenPCDet </a></td>
+    <td><sub>点云检测任务</sub></td>
+</tr>    
+<tr>
     <td  align="center"><a href="https://github.com/zyf-bit/openpilot" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/openpilot.png" align="center" alt="UFund" height="60" style="vertical-align:bottom;" /> <br> openpilot </a></td>
     <td><sub>L2级开源驾驶员辅助系统</sub></td>
 </tr>
