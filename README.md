@@ -8,6 +8,10 @@
 <table><tbody>
 <tr><th>Title</th><th>Description</th></tr>
 <tr>
+    <td  align="center"><a href="https://github.com/mit-han-lab/bevfusion" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/openpilot.png" align="center" alt="UFund" height="60" style="vertical-align:bottom;" /> <br> bevfusion </a></td>
+    <td><sub>视觉和雷达点云融合感知模型——作为开题</sub></td>
+</tr>    
+<tr>
     <td  align="center"><a href="https://github.com/open-mmlab/OpenPCDet" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/openpilot.png" align="center" alt="UFund" height="60" style="vertical-align:bottom;" /> <br> OpenPCDet </a></td>
     <td><sub>点云检测任务</sub></td>
 </tr>    
