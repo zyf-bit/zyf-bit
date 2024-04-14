@@ -1,4 +1,4 @@
-![image](https://github.com/zyf-bit/zyf-bit/assets/94728547/a61723d4-66b9-4e68-898e-ef4dd886fef5)<!--my introduction start-->
+<!--my introduction start-->
 <img src="https://img.shields.io/badge/Genshin%20impact-120059516-blue">
 
 <div>
