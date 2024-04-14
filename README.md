@@ -1,4 +1,4 @@
-<!--my introduction start-->
+![image](https://github.com/zyf-bit/zyf-bit/assets/94728547/a61723d4-66b9-4e68-898e-ef4dd886fef5)<!--my introduction start-->
 <img src="https://img.shields.io/badge/Genshin%20impact-120059516-blue">
 
 <div>
@@ -8,7 +8,7 @@
 <table><tbody>
 <tr><th>Title</th><th>Description</th></tr>
 <tr>
-    <td  align="center"><a href="https://github.com/mit-han-lab/bevfusion" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/openpilot.png" align="center" alt="UFund" height="60" style="vertical-align:bottom;" /> <br> bevfusion </a></td>
+    <td  align="center"><a href="https://github.com/mit-han-lab/bevfusion" target="_blank"><img src="https://github.com/zyf-bit/zyf-bit/blob/main/bevfusion.png" align="center" alt="UFund" height="60" style="vertical-align:bottom;" /> <br> bevfusion </a></td>
     <td><sub>视觉和雷达点云融合感知模型——作为开题</sub></td>
 </tr>    
 <tr>
